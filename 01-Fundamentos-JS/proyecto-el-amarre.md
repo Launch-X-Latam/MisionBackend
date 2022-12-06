@@ -145,3 +145,13 @@ window.addEventListener('beforeunload', (event) => {
     event.returnValue = "";
 });
 ```
+
+---
+
+[**&#11176;** *Anterior* &#11007;](/01-Fundamentos-JS/poo.md "Programación Orientada a Objetos con JavaScript") 
+[Siguiente **&#129042;**](/01-Fundamentos-JS/tarea-calculadora.md "Calculadora")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

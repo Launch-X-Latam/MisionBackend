@@ -45,3 +45,14 @@ Algunos lenguajes de Backend son los siguientes:
 11. **TOMA DESCANSOS, DUERME, DESCANSA, NO TE CHINGUES DEMASIADO**: Escuché a much@s developers decir que no duermen o que les encanta trabajar de noche o cuando eso les quita el sueño o el descanso. Quiero decirte hoy que para que seas productivo como Backend developer necesitas tiempo para descansar y dormir, por lo menos descansos para calmarte los nervios antes de continuar.
 
 12. **APRENDE A DEPURAR Y LIMPIAR CÓDIGO**: una habilidad importante que cualquier Backend Developer debe saber es la depuración. Puede ahorrarte mucho tiempo averiguando algo en sus programas. Así que aprende habilidades de depuración y también aprende a escribir código limpio. Una recomendación de lectura es [-> The Clean Code Blog](https://blog.cleancoder.com/) 
+
+
+---
+
+[**&#11176;** *Anterior* &#11007;](/01-Fundamentos-JS/eventos.md "") 
+[Siguiente **&#129042;**](/01-Fundamentos-JS/fundamentos-js.md "")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal")
+[*Subir* **&#11165;**](# "Ir al título")

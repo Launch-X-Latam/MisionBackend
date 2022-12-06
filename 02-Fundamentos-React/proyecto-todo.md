@@ -4,7 +4,7 @@
 
 # Pendiente
 
-Solo hice cambie/cree los siguuientes de un proyecto en blanco de React.js
+Solo hice, cambie/cree los siguientes de un proyecto en blanco de React.js
 
 App.js
 ```JavaScript
@@ -378,3 +378,8 @@ $colorTextChecked: #85e6e4;
   ~ .todo_icon .todo_circle { animation-name: explode;}
 }
 ```
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

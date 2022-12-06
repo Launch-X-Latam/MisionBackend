@@ -144,5 +144,4 @@ Recuerda que la práctica hace al maestro, recuerda que no hay preguntas tontas,
 
 ---
 
-[*Volver* **&ldca;**](/teoria/teoriaBasica/README.md "Menu principal") 
 [*Subir* **&#11165;**](# "Ir al título")

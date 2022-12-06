@@ -27,6 +27,10 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [MySQL](/00-Prework/mysql.md)
 - [MongoDB](/00-Prework/mongo.md)
 
+##  Esta misión tiene 7 módulos
+
+- [x] 1. [Fundamentos de Java script](#1-fundamentos-de-javascript "Fundamentos")  
+
 ### 1. Fundamentos de JavaScript
 - [Fundamentos de programación backend](/01-Fundamentos-JS/fundamentos-backend.md)
 - [Fundamentos de JavaScript](/01-Fundamentos-JS/)
@@ -130,3 +134,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 Recuerda que la práctica hace al maestro, recuerda que no hay preguntas tontas, lo tonto es no preguntar y Recuerda que esto no es Brujería, es Tecnología. 🪄
 
+---
+
+[*Volver* **&ldca;**](/teoria/teoriaBasica/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

@@ -29,7 +29,11 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 ##  Esta misión tiene 7 módulos
 
-- [x] 1. [Fundamentos de Java script](#1-fundamentos-de-javascript "Fundamentos")  
+- [x] 1. [Fundamentos de Java script](#1-fundamentos-de-javascript "Fundamentos JS")
+- [ ] 2. [Fundamentos de React.js](#2-fundamentos-de-reactjs "Fundamentos React")
+- [ ] 3. [Backend con Node.js](#2-fundamentos-de-reactjs "BackEnd Node")
+- [ ] 4. [Bases de datos MySQL](#2-fundamentos-de-reactjs "MySQL")
+
 
 ### 1. Fundamentos de JavaScript
 - [Fundamentos de programación backend](/01-Fundamentos-JS/fundamentos-backend.md)

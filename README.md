@@ -27,7 +27,19 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [MySQL](/00-Prework/mysql.md)
 - [MongoDB](/00-Prework/mongo.md)
 
-### 1. Fundamentos de JavaScript
+##  Esta misión tiene 7 módulos
+
+1. [Fundamentos de Java script](#1-fundamentos-de-javascript "Fundamentos JS")
+2. [Fundamentos de React.js](#2-fundamentos-de-reactjs "Fundamentos React")
+3. [Backend con Node.js](#3-backend-con-nodejs "BackEnd Node.js")
+4. [Testing con Node.jsL](#4-testing-con-nodejs "Testing")
+5. [Bases de datos MySQL](#5-bases-de-datos-mysql "MySQL")
+6. [Bases de NoSQL](#6-bases-de-nosql "NoSQL")
+7. [Cloud Infraestructure](#7-cloud-infraestructure "Cloud")
+
+
+
+### **1. Fundamentos de JavaScript**
 - [Fundamentos de programación backend](/01-Fundamentos-JS/fundamentos-backend.md)
 - [Fundamentos de JavaScript](/01-Fundamentos-JS/fundamentos-js.md)
 - [Manejo de DOM](/01-Fundamentos-JS/dom.md)
@@ -41,7 +53,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 #### La Tarea
 - [Calculadora en JavaScript](/01-Fundamentos-JS/tarea-calculadora.md)
 
-### 2. Fundamentos de React.js
+### **2. Fundamentos de React.js**
 - [Introducción a React]()
 - [Estructura de un proyecto en React]()
 - [Syntactically Awesome Style Sheets (Sass)]()
@@ -59,7 +71,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [Pokédex]()
 
 
-### 3. Backend con Node.js
+### **3. Backend con Node.js**
 - [Introducción a Node.js](/03-Node.js/Introduccion-nodejs.md)
 - [NPM y package.json](/03-Node.js/npm-package.md)
 - [Estructura de proyectos en Node.js](/03-Node.js/estructura-proyectos.md)
@@ -78,7 +90,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 #### La Tarea
 - [Aplicación de chat en tiempo real]()
 
-### 4. Testing con Node.js
+### **4. Testing con Node.js**
 - [Git avanzado]()
 - [Desarrollo TDD]()
 - [Pruebas unitarias]()
@@ -93,7 +105,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 #### La Tarea 
 - [Aplicación de chat en tiempo real (Testing)]()
 
-### 5. Bases de datos MySQL
+### **5. Bases de datos MySQL**
 - [Introducción a SQL y conceptos]()
 - [Joins en SQL]()
 - [Vistas en SQL]()
@@ -107,7 +119,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 #### La Tarea
 - [API REST de lenguajes de programación]()
 
-### 6. Bases de NoSQL
+### **6. Bases de NoSQL**
 - [Principios de NoSQL]()
 - [Fundamentos de MongoDB]()
 - [Filtrado y busqueda de datos]()
@@ -121,7 +133,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 #### La Tarea
 - [Chat en tiempo real con MongoB]()
 
-### 7. Cloud Infraestructure
+### **7. Cloud Infraestructure**
 - [Introducción a Azure VM]()
 - [Introducción a Contenedores]()
 - [Primeros pasos en Kubernetes]()
@@ -130,3 +142,6 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 Recuerda que la práctica hace al maestro, recuerda que no hay preguntas tontas, lo tonto es no preguntar y Recuerda que esto no es Brujería, es Tecnología. 🪄
 
+---
+
+[*Subir* **&#11165;**](# "Ir al título")

@@ -16,4 +16,12 @@ En el caso de MacOS si tu equipo tiene un procesador de Apple en plataforma sele
 
 Para el caso de Linux, selecciona la distro que tienes y en package selecciona **mongos**.
 
+---
 
+[**&#11176;** *Anterior* &#11007;](/00-Prework/git-ssh.md "Git y GitHub") 
+[Siguiente **&#129042;**](/00-Prework/mysql.md "Instalación de MySQL")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

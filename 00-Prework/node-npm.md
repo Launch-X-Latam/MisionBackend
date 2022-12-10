@@ -63,3 +63,12 @@ Gentoo
 emerge nodejs
 ```
 
+---
+
+[**&#11176;** *Anterior* &#11007;](/00-Prework/mysql.md "Instalación de MySQL") 
+[Siguiente **&#129042;**](/README.md "Menu principal")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

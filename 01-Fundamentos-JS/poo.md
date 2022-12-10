@@ -139,3 +139,13 @@ console.log(estudiante1.caminar());
 console.log(persona1.caminar());
 
 ```
+
+---
+
+[**&#11176;** *Anterior* &#11007;](/01-Fundamentos-JS/fundamentos-js.md "") 
+[Siguiente **&#129042;**](/01-Fundamentos-JS/proyecto-el-amarre.md "Proyecto")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

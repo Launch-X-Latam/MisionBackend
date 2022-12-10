@@ -31,3 +31,13 @@ Si tienes una distro basada en debian instala el .deb descargandolo desde aquí:
 Si tienes una distro de estas o basada en estas descarga el RPM package -> https://dev.mysql.com/downloads/repo/yum/
 
 Para otras distros de Linux selecciona tu sistema opereativo desde la opción **Select Operating System:** en esta página -> https://dev.mysql.com/downloads/mysql/ 
+
+---
+
+[**&#11176;** *Anterior* &#11007;](/00-Prework/mongo.md "Instalación de MongoDB") 
+[Siguiente **&#129042;**](/00-Prework/node-npm.md "Instalación de Node.js")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")

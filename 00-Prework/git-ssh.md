@@ -196,3 +196,13 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 9. Pegalo en la sección Settings > SSH and GPG Keys de GitHub y guarda los cambios.
+
+---
+
+[**&#11176;** *Anterior* &#11007;](/README.md "Menu principal") 
+[Siguiente **&#129042;**](/00-Prework/mongo.md "Mongo")
+
+---
+
+[*Volver* **&ldca;**](/README.md "Menu principal") 
+[*Subir* **&#11165;**](# "Ir al título")
